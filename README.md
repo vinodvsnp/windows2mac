@@ -1,6 +1,11 @@
 # windows2mac
 Tips for first time users of mac moving from windows
 
+- You can find tips from apple here at [Mac tips for Windows switchers](https://support.apple.com/en-in/HT204216)
+
+- You can find a compilation of frequently asked tips in the following sections here 
+
+
 ## Setting up
 - Follow the instructions
 
