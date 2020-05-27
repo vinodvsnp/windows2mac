@@ -9,6 +9,11 @@ Tips for first time users of mac moving from windows
 ## To login:
 - Ctl-Alt-Del is not available. Just open the laptop to get the login screen. If it’s in sleep mode, swipe or click the touchpad and login prompt will come up. To lock the screen use Command-Ctrl-Q
 
+## Info about the computer
+To view OS version, CPU, memory and other information about your Mac:
+
+- Click on the system menu (apple logo on top left corner of screen) and choose "About This Mac". It will open a pop up window which has info about that Mac organised into different sections. 
+
 ## Wi-Fi
 - A typical Wi-Fi icon can be found on top right part of the screen
 
