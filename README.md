@@ -55,6 +55,11 @@ Now these could be customised by going to System Preferences-> Trackpad
 
 - The application menu for an app is not part of the app's window, but it will appear at the top of the screen as system menu. That system menu keeps changing based on the app in focus. The app's window at the basic level only has the 'close, minimize and maximize' buttons on top left corner by default. Now some apps may choose to have a menu bar or a tool bar etc at the top of their window, but that is not default.
 
+- While focused in an application window, if you want to open another window of the application (provided that the application supports that), press command-N. This works for finder, browsers and other apps that support multiple windows
+
+- Tabbed applications - While focused in an application tab in an application window, if you want to open another Tab of the application in the same window (provided that the application supports that), press command-T. This works for browsers and other apps that support multiple tabs in same window
+
+
 - **Switching between windows**
   * To switch between application windows use "command-tab" instead of "alt-tab" in Windows.
   * To swicth between windows of same application (say different safari windows or different Finder windows) use "Command-tilde" (Command-`) 
@@ -81,4 +86,13 @@ Now these could be customised by going to System Preferences-> Trackpad
  
  - In case it is a pkg file, double click on the file. It will launch an installer and guide you through the installation. In some cases it will ask for admin privileges by popping a system window that takes a username with admin privilege and password. Supply the user/ password with admin privilege only if you trust this app to use the privilege properly 
 
+## Command Line console
+- In Mac "terminal" is the equivalent of "command window" of Windows
+- Use the Spotlight search to find and launch a Terminal
+- This is equivalent to a bash unix shell
+- When you are in a terminal and want to open another terminal window, click command-N
 
+## Task Manager & Performance Monitor
+- In Mac "Activity Monitor" does the task manager + performance monitor responsibilities
+- Use the Spotlight search to find and launch "Activity Monitor"
+- In the task list, you can choose a task and then use the menu items and tool bar to do actions such as see info on the process, stop the process, kill the process (x mark icon) and so on. Once you click on the X icon, it will ask if it needs to stop (quit) or kill (force quit)
